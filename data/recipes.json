@@ -1,0 +1,116 @@
+[
+    {
+		"MEAT": [
+			{
+				"name": "Chicken Breast",
+				"chef_Name": "Gordon Ramsay",
+				"id": 1,
+				"price": 19.5
+			},
+			{
+				"name": "Fresh Grilled Asparagus",
+				"chef_Name": "Gordon Ramsay",
+				"id": 2,
+				"price": 25.0
+			},
+			{
+				"name": "Pork-Stuffed Skins",
+				"chef_Name": "Gordon Ramsay",
+				"id": 3,
+				"price": 25.5
+			},
+			{
+				"name": "Grilled Chicken",
+				"chef_Name": "Gordon Ramsay",
+				"id": 4,
+				"price": 25.49
+			},
+			{
+				"name": "Steak Frites",
+				"chef_Name": "Gordon Ramsay",
+				"id": 5,
+				"price": 25.0
+			}
+		]
+	},
+    {
+		"SIDES": [
+			{
+				"name": "Chicken Breast",
+				"chef_Name": "Gordon Ramsay",
+				"id": 1,
+				"price": 19.5
+			},
+			{
+				"name": "Fresh Grilled Asparagus",
+				"chef_Name": "Gordon Ramsay",
+				"id": 2,
+				"price": 25.0
+			},
+			{
+				"name": "Pork-Stuffed Skins",
+				"chef_Name": "Gordon Ramsay",
+				"id": 3,
+				"price": 25.5
+			},
+			{
+				"name": "Grilled Chicken",
+				"chef_Name": "Gordon Ramsay",
+				"id": 4,
+				"price": 25.49
+			},
+			{
+				"name": "Steak Frites",
+				"chef_Name": "Gordon Ramsay",
+				"id": 5,
+				"price": 25.0
+			},
+			{
+				"name": "Steak Frites",
+				"chef_Name": "Gordon Ramsay",
+				"id": 6,
+				"price": 25.0
+			}
+		]
+	},
+    {
+		"PASTA": [
+			{
+				"name": "Chicken Breast",
+				"chef_Name": "Gordon Ramsay",
+				"id": 1,
+				"price": 19.5
+			},
+			{
+				"name": "Fresh Grilled Asparagus",
+				"chef_Name": "Gordon Ramsay",
+				"id": 2,
+				"price": 25.0
+			},
+			{
+				"name": "Pork-Stuffed Skins",
+				"chef_Name": "Gordon Ramsay",
+				"id": 3,
+				"price": 25.5
+			},
+			{
+				"name": "Grilled Chicken",
+				"chef_Name": "Gordon Ramsay",
+				"id": 4,
+				"price": 25.49
+			},
+			{
+				"name": "Steak Frites",
+				"chef_Name": "Gordon Ramsay",
+				"id": 5,
+				"price": 25.0
+			},
+			{
+				"name": "Steak Frites",
+				"chef_Name": "Gordon Ramsay",
+				"id": 6,
+				"price": 25.0
+			}
+		]
+	}
+]

@@ -1,0 +1,44 @@
+[
+	{
+		"food": "Pizza",
+		"user": "John",
+		"rating": 4,
+		"comment": "Great pizza, the crust was crispy and the toppings were fresh.",
+        "userPhoto" : "https://i.ibb.co/RvqL2z6/205e460b479e2e5b48aec07710c08d50.png"
+	},
+	{
+		"food": "Sushi",
+		"user": "Sarah",
+		"rating": 5,
+		"comment": "The sushi was amazing, the fish was so fresh and the presentation was beautiful.",
+		"userPhoto": "https://i.ibb.co/RvqL2z6/205e460b479e2e5b48aec07710c08d50.png"
+	},
+	{
+		"food": "Burgers",
+		"user": "Mike",
+		"rating": 3,
+		"comment": "The burgers were okay, but the fries were really good.",
+		"userPhoto": "https://i.ibb.co/RvqL2z6/205e460b479e2e5b48aec07710c08d50.png"
+	},
+	{
+		"food": "Tacos",
+		"user": "Lisa",
+		"rating": 4,
+		"comment": "The tacos were delicious, the meat was perfectly seasoned and the salsa was spicy.",
+		"userPhoto": "https://i.ibb.co/RvqL2z6/205e460b479e2e5b48aec07710c08d50.png"
+	},
+	{
+		"food": "Pad Thai",
+		"user": "David",
+		"rating": 2,
+		"comment": "The Pad Thai was disappointing, the noodles were overcooked and the sauce was bland.",
+		"userPhoto": "https://i.ibb.co/RvqL2z6/205e460b479e2e5b48aec07710c08d50.png"
+	},
+	{
+		"food": "Sushi",
+		"user": "Amy",
+		"rating": 4,
+		"comment": "The sushi was really good, but the service was a bit slow.",
+		"userPhoto": "https://i.ibb.co/RvqL2z6/205e460b479e2e5b48aec07710c08d50.png"
+	}
+]

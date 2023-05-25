@@ -1,0 +1,462 @@
+{
+	"chefs": [
+		{
+			"_id": 1,
+			"name": "Gordon Ramsay",
+			"photo_URL": "https://i.ibb.co/Ld5bhL0/chef4.jpg",
+			
+			"experience": 20,
+			"num_recipes": 150,
+			"likes": 1005500,
+			"description": "Gordon Ramsay is a British chef known for his fiery personality and culinary expertise. He has earned numerous accolades throughout his career, including three Michelin stars, and is the owner of the Gordon Ramsay Group of restaurants.",
+			"resipi": [
+				{
+					"recipe": "Baked Salmon",
+					"ingredients": [
+						"4 salmon fillets",
+						"2 tablespoons olive oil",
+						"2 tablespoons Dijon mustard",
+						"2 tablespoons honey",
+						"2 cloves garlic, minced"
+					],
+					"cooking_method": [
+						"Preheat oven to 400°F (200°C).",
+						"In a small bowl, whisk together olive oil, Dijon mustard, honey, and garlic.",
+						"Place salmon fillets on a baking sheet and brush the mustard mixture over the top of each fillet.",
+						"Season with salt and pepper.",
+						"Bake for 12-15 minutes, or until salmon is cooked through."
+					],
+					"rating": 4.7
+				},
+				{
+					"recipe": "Mushroom Risotto",
+					"ingredients": [
+						"1 cup Arborio rice",
+						"4 cups chicken or vegetable broth",
+						"2 tablespoons olive oil",
+						"1 onion, chopped",
+						"3 cloves garlic, minced",
+						"8 ounces mushrooms, sliced"
+					],
+					"cooking_method": [
+						"In a saucepan, heat the broth over low heat.",
+						"In a large skillet, heat olive oil over medium heat.",
+						"Add onion and garlic and cook until onion is translucent.",
+						"Add mushrooms and cook until softened.",
+						"Add rice and stir to coat with the oil and vegetables.",
+						"Add 1 cup of hot broth to the skillet and stir until most of the liquid is absorbed.",
+						"Continue adding broth, 1 cup at a time, stirring constantly until the rice is cooked and the risotto is creamy.",
+						"Season with salt and pepper to taste."
+					],
+					"rating": 4.5
+				},
+				{
+					"recipe": "Beef Stir-Fry",
+					"ingredients": [
+						"1 pound flank steak, sliced against the grain",
+						"3 tablespoons soy sauce",
+						"1 tablespoon cornstarch",
+						"2 tablespoons vegetable oil",
+						"1 onion, sliced",
+						"2 cloves garlic, minced",
+						"1 red bell pepper, sliced",
+						"1 green bell pepper, sliced"
+					],
+					"cooking_method": [
+						"In a bowl, whisk together soy sauce and cornstarch.",
+						"Add sliced beef and toss to coat.",
+						"In a large skillet or wok, heat vegetable oil over high heat.",
+						"Add onion and garlic and cook until onion is translucent.",
+						"Add beef and cook until browned.",
+						"Add sliced bell peppers and cook until tender-crisp.",
+						"Season with salt and pepper to taste."
+					],
+					"rating": 4.3
+				}
+			]
+		},
+		{
+			"_id": 2,
+			"name": "Massimo Bottura",
+			"photo_URL": "https://i.ibb.co/nD6Cvfd/chef5.jpg",
+			
+			"experience": 17,
+			"num_recipes": 200,
+			"likes": 805050,
+			"description": "Massimo Bottura is an Italian chef who is renowned for his modern interpretations of traditional Italian cuisine. He is the owner of Osteria Francescana, which has been named the World's Best Restaurant multiple times.",
+			"resipi": [
+				{
+					"recipe": "Baked Salmon",
+					"ingredients": [
+						"4 salmon fillets",
+						"2 tablespoons olive oil",
+						"2 tablespoons Dijon mustard",
+						"2 tablespoons honey",
+						"2 cloves garlic, minced"
+					],
+					"cooking_method": [
+						"Preheat oven to 400°F (200°C).",
+						"In a small bowl, whisk together olive oil, Dijon mustard, honey, and garlic.",
+						"Place salmon fillets on a baking sheet and brush the mustard mixture over the top of each fillet.",
+						"Season with salt and pepper.",
+						"Bake for 12-15 minutes, or until salmon is cooked through."
+					],
+					"rating": 4.7
+				},
+				{
+					"recipe": "Mushroom Risotto",
+					"ingredients": [
+						"1 cup Arborio rice",
+						"4 cups chicken or vegetable broth",
+						"2 tablespoons olive oil",
+						"1 onion, chopped",
+						"3 cloves garlic, minced",
+						"8 ounces mushrooms, sliced"
+					],
+					"cooking_method": [
+						"In a saucepan, heat the broth over low heat.",
+						"In a large skillet, heat olive oil over medium heat.",
+						"Add onion and garlic and cook until onion is translucent.",
+						"Add mushrooms and cook until softened.",
+						"Add rice and stir to coat with the oil and vegetables.",
+						"Add 1 cup of hot broth to the skillet and stir until most of the liquid is absorbed.",
+						"Continue adding broth, 1 cup at a time, stirring constantly until the rice is cooked and the risotto is creamy.",
+						"Season with salt and pepper to taste."
+					],
+					"rating": 4.5
+				},
+				{
+					"recipe": "Beef Stir-Fry",
+					"ingredients": [
+						"1 pound flank steak, sliced against the grain",
+						"3 tablespoons soy sauce",
+						"1 tablespoon cornstarch",
+						"2 tablespoons vegetable oil",
+						"1 onion, sliced",
+						"2 cloves garlic, minced",
+						"1 red bell pepper, sliced",
+						"1 green bell pepper, sliced"
+					],
+					"cooking_method": [
+						"In a bowl, whisk together soy sauce and cornstarch.",
+						"Add sliced beef and toss to coat.",
+						"In a large skillet or wok, heat vegetable oil over high heat.",
+						"Add onion and garlic and cook until onion is translucent.",
+						"Add beef and cook until browned.",
+						"Add sliced bell peppers and cook until tender-crisp.",
+						"Season with salt and pepper to taste."
+					],
+					"rating": 4.3
+				}
+			]
+		},
+		{
+			"_id": 3,
+			"name": "Alice Waters",
+			"photo_URL": "https://i.ibb.co/YhN2M7K/chef2.jpg",
+			
+			
+			"experience": 40,
+			"num_recipes": 90,
+			"likes": 500020,
+			"description": "Alice Waters is an American chef and restaurateur who is known for her promotion of locally-sourced, organic ingredients and her advocacy for sustainable food practices. She is the owner of Chez Panisse, a renowned California restaurant.",
+			"resipi": [
+				{
+					"recipe": "Baked Salmon",
+					"ingredients": [
+						"4 salmon fillets",
+						"2 tablespoons olive oil",
+						"2 tablespoons Dijon mustard",
+						"2 tablespoons honey",
+						"2 cloves garlic, minced"
+					],
+					"cooking_method": [
+						"Preheat oven to 400°F (200°C).",
+						"In a small bowl, whisk together olive oil, Dijon mustard, honey, and garlic.",
+						"Place salmon fillets on a baking sheet and brush the mustard mixture over the top of each fillet.",
+						"Season with salt and pepper.",
+						"Bake for 12-15 minutes, or until salmon is cooked through."
+					],
+					"rating": 4.7
+				},
+				{
+					"recipe": "Mushroom Risotto",
+					"ingredients": [
+						"1 cup Arborio rice",
+						"4 cups chicken or vegetable broth",
+						"2 tablespoons olive oil",
+						"1 onion, chopped",
+						"3 cloves garlic, minced",
+						"8 ounces mushrooms, sliced"
+					],
+					"cooking_method": [
+						"In a saucepan, heat the broth over low heat.",
+						"In a large skillet, heat olive oil over medium heat.",
+						"Add onion and garlic and cook until onion is translucent.",
+						"Add mushrooms and cook until softened.",
+						"Add rice and stir to coat with the oil and vegetables.",
+						"Add 1 cup of hot broth to the skillet and stir until most of the liquid is absorbed.",
+						"Continue adding broth, 1 cup at a time, stirring constantly until the rice is cooked and the risotto is creamy.",
+						"Season with salt and pepper to taste."
+					],
+					"rating": 4.5
+				},
+				{
+					"recipe": "Beef Stir-Fry",
+					"ingredients": [
+						"1 pound flank steak, sliced against the grain",
+						"3 tablespoons soy sauce",
+						"1 tablespoon cornstarch",
+						"2 tablespoons vegetable oil",
+						"1 onion, sliced",
+						"2 cloves garlic, minced",
+						"1 red bell pepper, sliced",
+						"1 green bell pepper, sliced"
+					],
+					"cooking_method": [
+						"In a bowl, whisk together soy sauce and cornstarch.",
+						"Add sliced beef and toss to coat.",
+						"In a large skillet or wok, heat vegetable oil over high heat.",
+						"Add onion and garlic and cook until onion is translucent.",
+						"Add beef and cook until browned.",
+						"Add sliced bell peppers and cook until tender-crisp.",
+						"Season with salt and pepper to taste."
+					],
+					"rating": 4.3
+				}
+			]
+		},
+		{
+			"_id": 4,
+			"name": "Gordon Ramsay",
+			"photo_URL": "https://i.ibb.co/1dNbzdz/chef3.jpg",
+			
+			
+			
+			"experience": 21,
+			"num_recipes": 150,
+			"likes": 1000000,
+			"description": "Gordon Ramsay is a British chef known for his fiery personality and culinary expertise. He has earned numerous accolades throughout his career, including three Michelin stars, and is the owner of the Gordon Ramsay Group of restaurants.",
+			"resipi":[
+				{
+					"recipe": "Baked Salmon",
+					"ingredients": [
+						"4 salmon fillets",
+						"2 tablespoons olive oil",
+						"2 tablespoons Dijon mustard",
+						"2 tablespoons honey",
+						"2 cloves garlic, minced"
+					],
+					"cooking_method": [
+						"Preheat oven to 400°F (200°C).",
+						"In a small bowl, whisk together olive oil, Dijon mustard, honey, and garlic.",
+						"Place salmon fillets on a baking sheet and brush the mustard mixture over the top of each fillet.",
+						"Season with salt and pepper.",
+						"Bake for 12-15 minutes, or until salmon is cooked through."
+					],
+					"rating": 4.7
+				},
+				{
+					"recipe": "Mushroom Risotto",
+					"ingredients": [
+						"1 cup Arborio rice",
+						"4 cups chicken or vegetable broth",
+						"2 tablespoons olive oil",
+						"1 onion, chopped",
+						"3 cloves garlic, minced",
+						"8 ounces mushrooms, sliced"
+					],
+					"cooking_method": [
+						"In a saucepan, heat the broth over low heat.",
+						"In a large skillet, heat olive oil over medium heat.",
+						"Add onion and garlic and cook until onion is translucent.",
+						"Add mushrooms and cook until softened.",
+						"Add rice and stir to coat with the oil and vegetables.",
+						"Add 1 cup of hot broth to the skillet and stir until most of the liquid is absorbed.",
+						"Continue adding broth, 1 cup at a time, stirring constantly until the rice is cooked and the risotto is creamy.",
+						"Season with salt and pepper to taste."
+					],
+					"rating": 4.5
+				},
+				{
+					"recipe": "Beef Stir-Fry",
+					"ingredients": [
+						"1 pound flank steak, sliced against the grain",
+						"3 tablespoons soy sauce",
+						"1 tablespoon cornstarch",
+						"2 tablespoons vegetable oil",
+						"1 onion, sliced",
+						"2 cloves garlic, minced",
+						"1 red bell pepper, sliced",
+						"1 green bell pepper, sliced"
+					],
+					"cooking_method": [
+						"In a bowl, whisk together soy sauce and cornstarch.",
+						"Add sliced beef and toss to coat.",
+						"In a large skillet or wok, heat vegetable oil over high heat.",
+						"Add onion and garlic and cook until onion is translucent.",
+						"Add beef and cook until browned.",
+						"Add sliced bell peppers and cook until tender-crisp.",
+						"Season with salt and pepper to taste."
+					],
+					"rating": 4.3
+				}
+
+
+
+			]
+		},
+		{
+			"_id": 5,
+			"name": "Massimo Bottura",
+			"photo_URL": "https://i.ibb.co/mFCyCSg/chef1.jpg",
+			
+			
+			
+			"experience": 30,
+			"num_recipes": 200,
+			"likes": 800000,
+			"description": "Massimo Bottura is an Italian chef who is renowned for his modern interpretations of traditional Italian cuisine. He is the owner of Osteria Francescana, which has been named the World's Best Restaurant multiple times.",
+			"resipi": [
+				{
+					"recipe": "Baked Salmon",
+					"ingredients": [
+						"4 salmon fillets",
+						"2 tablespoons olive oil",
+						"2 tablespoons Dijon mustard",
+						"2 tablespoons honey",
+						"2 cloves garlic, minced"
+					],
+					"cooking_method": [
+						"Preheat oven to 400°F (200°C).",
+						"In a small bowl, whisk together olive oil, Dijon mustard, honey, and garlic.",
+						"Place salmon fillets on a baking sheet and brush the mustard mixture over the top of each fillet.",
+						"Season with salt and pepper.",
+						"Bake for 12-15 minutes, or until salmon is cooked through."
+					],
+					"rating": 4.7
+				},
+				{
+					"recipe": "Mushroom Risotto",
+					"ingredients": [
+						"1 cup Arborio rice",
+						"4 cups chicken or vegetable broth",
+						"2 tablespoons olive oil",
+						"1 onion, chopped",
+						"3 cloves garlic, minced",
+						"8 ounces mushrooms, sliced"
+					],
+					"cooking_method": [
+						"In a saucepan, heat the broth over low heat.",
+						"In a large skillet, heat olive oil over medium heat.",
+						"Add onion and garlic and cook until onion is translucent.",
+						"Add mushrooms and cook until softened.",
+						"Add rice and stir to coat with the oil and vegetables.",
+						"Add 1 cup of hot broth to the skillet and stir until most of the liquid is absorbed.",
+						"Continue adding broth, 1 cup at a time, stirring constantly until the rice is cooked and the risotto is creamy.",
+						"Season with salt and pepper to taste."
+					],
+					"rating": 4.5
+				},
+				{
+					"recipe": "Beef Stir-Fry",
+					"ingredients": [
+						"1 pound flank steak, sliced against the grain",
+						"3 tablespoons soy sauce",
+						"1 tablespoon cornstarch",
+						"2 tablespoons vegetable oil",
+						"1 onion, sliced",
+						"2 cloves garlic, minced",
+						"1 red bell pepper, sliced",
+						"1 green bell pepper, sliced"
+					],
+					"cooking_method": [
+						"In a bowl, whisk together soy sauce and cornstarch.",
+						"Add sliced beef and toss to coat.",
+						"In a large skillet or wok, heat vegetable oil over high heat.",
+						"Add onion and garlic and cook until onion is translucent.",
+						"Add beef and cook until browned.",
+						"Add sliced bell peppers and cook until tender-crisp.",
+						"Season with salt and pepper to taste."
+					],
+					"rating": 4.3
+				}
+			]
+		},
+		{
+			"_id": 6,
+			"name": "Alice Waters",
+			"photo_URL": "https://i.ibb.co/mFCyCSg/chef1.jpg",
+			
+			"experience": 48,
+			"num_recipes": 100,
+			"likes": 500000,
+			"description": "Alice Waters is an American chef and restaurateur who is known for her promotion of locally-sourced, organic ingredients and her advocacy for sustainable food practices. She is the owner of Chez Panisse, a renowned California restaurant.",
+			"resipi": [
+				{
+					"recipe": "Baked Salmon",
+					"ingredients": [
+						"4 salmon fillets",
+						"2 tablespoons olive oil",
+						"2 tablespoons Dijon mustard",
+						"2 tablespoons honey",
+						"2 cloves garlic, minced"
+					],
+					"cooking_method": [
+						"Preheat oven to 400°F (200°C).",
+						"In a small bowl, whisk together olive oil, Dijon mustard, honey, and garlic.",
+						"Place salmon fillets on a baking sheet and brush the mustard mixture over the top of each fillet.",
+						"Season with salt and pepper.",
+						"Bake for 12-15 minutes, or until salmon is cooked through."
+					],
+					"rating": 4.7
+				},
+				{
+					"recipe": "Mushroom Risotto",
+					"ingredients": [
+						"1 cup Arborio rice",
+						"4 cups chicken or vegetable broth",
+						"2 tablespoons olive oil",
+						"1 onion, chopped",
+						"3 cloves garlic, minced",
+						"8 ounces mushrooms, sliced"
+					],
+					"cooking_method": [
+						"In a saucepan, heat the broth over low heat.",
+						"In a large skillet, heat olive oil over medium heat.",
+						"Add onion and garlic and cook until onion is translucent.",
+						"Add mushrooms and cook until softened.",
+						"Add rice and stir to coat with the oil and vegetables.",
+						"Add 1 cup of hot broth to the skillet and stir until most of the liquid is absorbed.",
+						"Continue adding broth, 1 cup at a time, stirring constantly until the rice is cooked and the risotto is creamy.",
+						"Season with salt and pepper to taste."
+					],
+					"rating": 4.5
+				},
+				{
+					"recipe": "Beef Stir-Fry",
+					"ingredients": [
+						"1 pound flank steak, sliced against the grain",
+						"3 tablespoons soy sauce",
+						"1 tablespoon cornstarch",
+						"2 tablespoons vegetable oil",
+						"1 onion, sliced",
+						"2 cloves garlic, minced",
+						"1 red bell pepper, sliced",
+						"1 green bell pepper, sliced"
+					],
+					"cooking_method": [
+						"In a bowl, whisk together soy sauce and cornstarch.",
+						"Add sliced beef and toss to coat.",
+						"In a large skillet or wok, heat vegetable oil over high heat.",
+						"Add onion and garlic and cook until onion is translucent.",
+						"Add beef and cook until browned.",
+						"Add sliced bell peppers and cook until tender-crisp.",
+						"Season with salt and pepper to taste."
+					],
+					"rating": 4.3
+				}
+			]
+		}
+	]
+}
